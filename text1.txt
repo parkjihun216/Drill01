@@ -15,7 +15,7 @@ def left():
                     
    
 def up():
-    t.setheading(90)
+    turtle.setheading(90)
     turtle.forward(50)
     turtle.stamp()
     
